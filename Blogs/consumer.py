@@ -5,7 +5,7 @@ django.setup()
 
 from app.models import Blog
 
-params = pika.URLParameters('amqps://pfjwwqsf:yZGEauqx7YSRBhDlSEOEwSg_S2UByLDd@beaver.rmq.cloudamqp.com/pfjwwqsf')
+params = pika.URLParameters('amqps_url')
 
 connection = pika.BlockingConnection(params)
 
