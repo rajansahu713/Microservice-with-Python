@@ -1,0 +1,5 @@
+
+app/migrations/
+
+app/__pycache__/
+static/
