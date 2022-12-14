@@ -3,3 +3,5 @@ app/migrations/
 
 app/__pycache__/
 static/
+
+Blogs/__pycache__/
