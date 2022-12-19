@@ -37,6 +37,8 @@ python manager db migrate # to migrate new changes
 python manager db upgrade
 ```
 
+For more inside information Please check out: https://medium.com/@rajansahu713/microservice-with-python-83a162c304e8 
+
 
 
 
